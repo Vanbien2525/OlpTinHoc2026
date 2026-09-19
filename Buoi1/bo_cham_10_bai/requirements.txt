@@ -1,0 +1,1 @@
+# Bộ chấm chỉ dùng thư viện chuẩn của Python 3.9+, không cần pip install.
